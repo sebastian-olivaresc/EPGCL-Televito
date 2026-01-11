@@ -27,7 +27,7 @@ https://i.imgur.com/EwJbXKm.mp4
 #EXTINF: -1 tvg-logo="https://i.imgur.com/8ZR2XHN.png" group-title="Chile", TVN3 | FHD | Santiago
 https://mdstrm.com/live-stream-playlist/5653641561b4eba30a7e4929.m3u8
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/PjAS6V9.png" group-title="Chile", UCV | HD | Valparaíso
+#EXTINF: -1 TVG-ID="0108" tvg-logo="https://i.imgur.com/PjAS6V9.png" group-title="Chile", UCV | HD | Valparaíso
 https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/4ZLt6ep.png" group-title="Chile", UCV2  | HD | Valparaíso
@@ -1170,7 +1170,7 @@ https://i.imgur.com/0Nkz7aU.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7jrTRls.jpeg" group-title="Paraguay", ABC | HD | Asunción
 https://cdn.jwplayer.com/live/broadcast/GQagSggs.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/X8bZrCh.jpeg" group-title="Paraguay", Mega TV | HD | Asunción
+#EXTINF:-1 TVG-ID="0105" tvg-logo="https://i.imgur.com/X8bZrCh.jpeg" group-title="Paraguay", Mega TV | HD | Asunción
 https://ott3.streann.com/loadbalancer/services/public/channels-secure/5e62b96e2cdcfac2dd8885dd/playlist.m3u8
 
 
